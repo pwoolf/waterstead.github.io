@@ -1,3 +1,1 @@
-this is a test for waterstead
-
-test 2
+<a href="https://wiki.waterstead.org/">Click here for the wiki</a> for the project.
